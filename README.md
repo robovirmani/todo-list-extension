@@ -7,3 +7,5 @@ To try it out,
 2. Open Extensions in your chrome browser (chrome://extensions/)
 3. Enable Developer mode (Top Right corner)
 4. Select 'Load Unpacked' (Top Left corner) and select the cloned repo folder.
+
+![alt text](ss.jpg)
