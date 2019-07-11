@@ -8,4 +8,4 @@ To try it out,
 3. Enable Developer mode (Top Right corner)
 4. Select 'Load Unpacked' (Top Left corner) and select the cloned repo folder.
 
-![alt text](ss.jpg)
+![Alt text](/ss.jpg?raw=true "Screen Capture")
