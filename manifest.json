@@ -1,0 +1,17 @@
+{
+  "name": "To-Do list extension",
+  "description": "New Tab page is your own to-do list",
+  "version": "1.0",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {"128": "logo.png" },
+  "manifest_version": 2,
+  "permissions":[
+    "storage",
+    "notifications",
+    "contextMenus"
+  ]
+}
+
