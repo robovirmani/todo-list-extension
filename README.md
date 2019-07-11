@@ -8,4 +8,4 @@ To try it out,
 3. Enable Developer mode (Top Right corner)
 4. Select 'Load Unpacked' (Top Left corner) and select the cloned repo folder.
 
-![Screen Capture](https://github.com/robovirmani/todo-list-extension/blob/master/ss.jpg?raw=true)
+![Screen Capture](https://github.com/robovirmani/todo-list-extension/blob/master/ss.JPG)
